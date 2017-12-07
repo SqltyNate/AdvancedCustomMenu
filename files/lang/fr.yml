@@ -12,11 +12,11 @@ Messages:
   Article:
     Succès:
       Soi: '%prefix% &7Vous avez été donné &a%menu%''s &7élément du menu!'
-      Other: '%prefix% &7Vous avez reçu le &a%menu%''s &7élément de menu à &e%player%&7!'
+      Autre: '%prefix% &7Vous avez reçu le &a%menu%''s &7élément de menu à &e%player%&7!'
     Failed:
       Already: 
-        Self: '%prefix% &7You already have the &a%menus%''s &7menu item!'
-        Other: '%prefix% &7The player &c%player% &7already has the &a%menus%''s &7menu item!'
+        Soi: '%prefix% &7Vous avez déjà le &a%menus%''s &7élément du menu!'
+        Autre: '%prefix% &7Le joueur &c%player% &7already has the &a%menus%''s &7menu item!'
       Full: 
         Self: '%prefix% &7Seems like you don''t have enough space in your inventory!'
         Other: '%prefix% &7Seems like the player &c%player% &7doesn''t have enough space in their inventory!'
